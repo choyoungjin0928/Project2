@@ -23,7 +23,6 @@
 ---
 - Ubuntu 18.04
 - ROS Melodic
-- ar-track-alvar v0.7.1
 - 1/10 scale model car
 - Nvidia TX 2
 
